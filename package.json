@@ -1,0 +1,33 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/jsonwebtoken": "^8.5.4",
+    "@types/request": "^2.48.7",
+    "bootstrap": "5.1.0",
+    "dotenv": "^10.0.0",
+    "js-sha3": "^0.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.14",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "next": "11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "swr": "^0.5.6",
+    "unfetch": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.14",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.1.2",
+    "typescript": "4.3.5"
+  }
+}
